@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#101827">
-  <title>My Stopwatch</title>
+  <title>ISMAIL STOPWATCH</title>
   <style>
     :root { color-scheme: dark; --bg:#101827; --panel:#1b2638; --text:#f5f7fb; --muted:#aebbd0; --accent:#69e0b0; }
     * { box-sizing: border-box; }
